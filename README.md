@@ -11,7 +11,6 @@ Here is my Thinkpad P15V Gen1 specs:
 - Intel Wi-Fi® 6 AX201, 802.11ax 2x2 Wi-Fi + Bluetooth 5.1, M.2 Card
 - Realtek ALC257 (0x0257)
 - 16+16 Gb DDR4
-- SD card reader
 - 2x M.2 2280 SSD
 - Camera
 - 2x USB 3.2 Gen 1 (one Always On)
@@ -21,6 +20,7 @@ Here is my Thinkpad P15V Gen1 specs:
 - 1x Ethernet (RJ-45) Intel® I219V11
 - 1x Headphone / microphone combo jack (3.5mm)
 
+## Support
 - OpenCore 0.7.9 official version
 - Support macOS 12.3.1
 
