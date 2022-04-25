@@ -1,4 +1,3 @@
-
 ## Hardware Specs
 ### Basic info
 Here is my Thinkpad P15V Gen1 specs:
@@ -24,12 +23,18 @@ Here is my Thinkpad P15V Gen1 specs:
 - OpenCore 0.7.9 official version
 - Support macOS 12.3.1
 
-
 ## BIOS Configuration
+- Config network: All Disabled
+- Config Display: Thinkpad LCD / total graphics memory 512M / Disabled
+- Config Thunderbot 3: Thunderbot BIOS Assist Mode  Off / security Level Display port and usb / Thunderbolt device Disabled
+- Config Storage mode: AHCI (If you are in RST mode, you need to switch it to AHCI mode)
+- Security Fingerprint: Predesktop Authentication Off / Security Mode normal
+- Security Virtualization: Kernal DAM Protection Off / IVT ON/ VT-d ON / Enhanced Windows Bionmetric Security Off
+- Security Internal Device Acess: All Off
 - Boot mode: UEFI
-- Display mode: Hubrid Graphics
-- security boot- disabled
-- Storage mode: AHCI (If you are in RST mode, you need to switch it to AHCI mode)
+- Security Secure Boot Off
+- Security Intel SGX : Disabled
+- Security Device Guard: Off
 
 ## Full Compatibility
 - Boot clover with UEFI mode
