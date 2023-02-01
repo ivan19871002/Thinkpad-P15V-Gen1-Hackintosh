@@ -20,8 +20,8 @@ Here is my Thinkpad P15V Gen1 specs:
 - 1x Headphone / microphone combo jack (3.5mm)
 
 ## Support
-- OpenCore 0.7.9 official version
-- Support macOS 12.3.1
+- OpenCore 0.8.8 official version
+- Support macOS 13.2
 
 ## BIOS Configuration
 - Config network: All Disabled
