@@ -993,6 +993,10 @@
                     <data>FAAAAA==</data>
                     <key>enable-dpcd-max-link-rate-fix</key>
                     <data>AQAAAA==</data>
+                    <key>enable-hdmi-dividers-fix</key>
+                    <data>AQAAAA==</data>
+                    <key>enable-hdmi20</key>
+                    <data>AQAAAA==</data>
                     <key>enable-lspcon-support</key>
                     <data>AQAAAA==</data>
                     <key>enable-max-pixel-clock-override</key>
@@ -1936,7 +1940,7 @@
                 <key>SetApfsTrimTimeout</key>
                 <integer>-1</integer>
                 <key>ThirdPartyDrives</key>
-                <false/>
+                <true/>
                 <key>XhciPortLimit</key>
                 <false/>
             </dict>
@@ -1985,7 +1989,7 @@
                 <key>TakeoffDelay</key>
                 <integer>0</integer>
                 <key>Timeout</key>
-                <integer>5</integer>
+                <integer>10</integer>
             </dict>
             <key>Debug</key>
             <dict>
@@ -2132,7 +2136,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>agdpmod=vit9696 alcid=11 -igfxmpc -igfxonln=1 vsmcgen=1</string>
+                    <string>agdpmod=vit9696 alcid=11 -igfxmpc vsmcgen=1</string>
                     <key>csr-active-config</key>
                     <data>/wcAAA==</data>
                     <key>prev-lang:kbd</key>
