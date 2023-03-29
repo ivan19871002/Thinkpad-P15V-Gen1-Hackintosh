@@ -986,7 +986,7 @@
                 <key>PciRoot(0x0)/Pci(0x2,0x0)</key>
                 <dict>
                     <key>AAPL,ig-platform-id</key>
-                    <data>CQClPg==</data>
+                    <data>AACbPg==</data>
                     <key>device-id</key>
                     <data>mz4AAA==</data>
                     <key>dpcd-max-link-rate</key>
@@ -1005,21 +1005,17 @@
                     <data>AQUJAAAEAACHAQAA</data>
                     <key>framebuffer-con1-enable</key>
                     <data>AQAAAA==</data>
+                    <key>framebuffer-con1-has-lspcon</key>
+                    <data>AQAAAA==</data>
+                    <key>framebuffer-con1-preferred-lspcon-mode</key>
+                    <data>AAAAAA==</data>
                     <key>framebuffer-con2-alldata</key>
-                    <data>AgYJAAAEAACHAQAA</data>
+                    <data>AwQKAAAIAACHAQAA</data>
                     <key>framebuffer-con2-enable</key>
                     <data>AQAAAA==</data>
                     <key>framebuffer-con2-has-lspcon</key>
                     <data>AQAAAA==</data>
                     <key>framebuffer-con2-preferred-lspcon-mode</key>
-                    <data>AAAAAA==</data>
-                    <key>framebuffer-con3-alldata</key>
-                    <data>AwQKAAAIAACHAQAA</data>
-                    <key>framebuffer-con3-enable</key>
-                    <data>AQAAAA==</data>
-                    <key>framebuffer-con3-has-lspcon</key>
-                    <data>AQAAAA==</data>
-                    <key>framebuffer-con3-preferred-lspcon-mode</key>
                     <data>AAAAAA==</data>
                     <key>framebuffer-fbmem</key>
                     <data>AACQAA==</data>
@@ -1040,24 +1036,6 @@
         <dict>
             <key>Add</key>
             <array>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>Lilu-debug.kext</string>
-                    <key>Comment</key>
-                    <string>V1.6.4</string>
-                    <key>Enabled</key>
-                    <false/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/Lilu</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
                 <dict>
                     <key>Arch</key>
                     <string>Any</string>
@@ -1100,7 +1078,7 @@
                     <key>BundlePath</key>
                     <string>Sinetek-rtsx.kext</string>
                     <key>Comment</key>
-                    <string>V4</string>
+                    <string>V9.0.0</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1195,24 +1173,6 @@
                     <true/>
                     <key>ExecutablePath</key>
                     <string></string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>WhateverGreen-debug.kext</string>
-                    <key>Comment</key>
-                    <string>V1.6.4</string>
-                    <key>Enabled</key>
-                    <false/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/WhateverGreen</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
