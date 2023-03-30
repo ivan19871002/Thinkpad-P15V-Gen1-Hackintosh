@@ -7,7 +7,7 @@ Here is my Thinkpad P15V Gen1 specs:
 - Intel(R) UHD Graphics 630
 - NVIDIA® Quadro® P620
 - Intel WM490 chipset
-- Intel Wi-Fi® 6 AX201, 802.11ax 2x2 Wi-Fi + Bluetooth 5.1, M.2 Card
+- M2 BCM wifi support
 - Realtek ALC257 (0x0257)
 - 16+16 Gb DDR4
 - 2x M.2 2280 SSD
