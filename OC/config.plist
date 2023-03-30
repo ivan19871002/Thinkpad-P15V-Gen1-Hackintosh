@@ -987,6 +987,8 @@
                 <dict>
                     <key>AAPL,ig-platform-id</key>
                     <data>CQCbPg==</data>
+                    <key>AAPL00,override-no-connect</key>
+                    <data>AP///////wAJ5cYIAAAAAB8dAQSlIhN4A9rllV1ZlCkkUFQAAAABAQEBAQEBAQEBAQEBAQEBljuANnE4PEAwIDYAWMIQAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAA/gBCT0UgQ1EKICAgICAgAAAA/gBOVjE1NkZITS1ONDgKAEM=</data>
                     <key>device-id</key>
                     <data>mz4AAA==</data>
                     <key>dpcd-max-link-rate</key>
